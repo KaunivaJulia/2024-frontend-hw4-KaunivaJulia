@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+button img {
+    width: 13px;
+    height: 13px;
+}

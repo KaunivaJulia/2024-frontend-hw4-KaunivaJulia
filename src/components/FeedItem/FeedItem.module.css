@@ -1,0 +1,24 @@
+.feedItem {
+    max-width: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(84, 82, 82);
+    padding: 40px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 500px;
+
+
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    height: auto;
+}
